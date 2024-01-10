@@ -1,14 +1,14 @@
 {
   "name": "db-json",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Github Module, JSON-Based Database to save and get data from a json file.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Mohtasim Alam Sohom",
+  "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.21",
     "uuid": "^9.0.1"
